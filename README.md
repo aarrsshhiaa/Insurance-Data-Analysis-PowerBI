@@ -19,7 +19,7 @@ The dashboard explores insurance policies, premiums, claims, customer demographi
 
 ![Insurance Analysis](screenshots/insurance_analysis.png)
 
-## What the Dashboard Covers
+## Dashboard Highlights
 
 - Total premium and claim amounts
 - Number of active and inactive policies
@@ -51,3 +51,7 @@ Insurance-Data-Analysis-PowerBI/
 │   └── insurance_analysis.png
 │
 └── README.md
+
+## Learning
+
+This project helped me practice working with Power Query, building Power BI visuals, and creating an interactive dashboard from insurance data.
