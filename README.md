@@ -39,6 +39,10 @@ The dashboard explores insurance policies, premiums, claims, customer demographi
 - Matrix
 - Interactive filters
 
+## Learning
+
+This project helped me practice working with Power Query, building Power BI visuals, and creating an interactive dashboard from insurance data.
+
 ## Project Files
 
 ```text
@@ -51,7 +55,3 @@ Insurance-Data-Analysis-PowerBI/
 │   └── insurance_analysis.png
 │
 └── README.md
-
-## Learning
-
-This project helped me practice working with Power Query, building Power BI visuals, and creating an interactive dashboard from insurance data.
